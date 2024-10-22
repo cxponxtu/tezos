@@ -14,7 +14,7 @@ The project involves three key entities:
 
 ## Flowchart
 
-![image](sample/flow.png)
+![image](sample/flow.gif)
 
 ## Getting Started
 
