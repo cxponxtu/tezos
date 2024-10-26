@@ -16,6 +16,10 @@ The project involves three key entities:
 
 ![image](sample/flow.gif)
 
+## Demo
+
+https://github.com/user-attachments/assets/a9deeed5-c6b4-499a-bc82-4746346c8213
+
 ## Getting Started
 
 - To deploy smart contract on Tezos BlockChain, use `contract.py` in SmartPy IDE to deploy it on Tezos Ghostnet.
